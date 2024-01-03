@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-numel-dimension",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Return the size (i.e., number of elements) of a specified dimension for a provided ndarray.",
   "license": "Apache-2.0",
   "author": {
